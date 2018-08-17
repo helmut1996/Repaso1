@@ -1,0 +1,73 @@
+img{
+    max-width: 50%;
+    float: none;
+}
+li{
+    display:inline-block;
+      
+}
+.quitar-float{
+    float: none;
+}
+.grande{
+    font-size: 5rem;
+}
+.letra{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: dimgrey;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:#F26A21;
+    color:azure; 
+}
+.rutas{
+    margin-right: 1em;
+    color: azure;
+}
+.menu{
+    background-color:black; 
+    width: 100%;
+}
+
+.menu-modificar li{
+    margin-right: 1rem; 
+}
+.menu-modificar li a{
+    text-decoration: none; 
+}
+.menu1{
+    font-size: 1.8rem;
+}
+.menu1 li a{
+    text-decoration: none;
+}
+.color{
+    color: azure;
+}
+.inline-block{
+    float: none;
+    display: inline-block;
+    margin-right: -4px;
+}
+.arriba{
+    vertical-align: top;
+}
+.mediano{
+    font-size: 1.2rem;
+}
+.pequeno{
+    font-size: 1rem;
+}
+
+.retraso-1{
+-webkit-animation-delay: 1s;
+-moz-animation-delay: 1s;
+animation-delay: 1s;
+}
+
+.retraso-2{
+    -webkit-animation-delay: 2s;
+    -moz-animation-delay: 2s;
+    animation-delay: 2s;
+    }
